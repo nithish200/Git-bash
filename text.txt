@@ -1,2 +1,3 @@
 my first statement
 git added new second line
+git adding line from master branch
